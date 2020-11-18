@@ -1,7 +1,7 @@
 # Person Segmentation
 
 ## Description
-This project applies segmentation neural network (Unet) to segment person on photo from background. Than applies on of visual transforms:
+Deep person segmentation and visual transformation of your photos. Currently supported visual transforms:
 * Bokeh effect
 * Black and white background
 * Layer of mask above person
