@@ -1,4 +1,4 @@
-# Person Segmentation
+# Human Segmentation
 
 ## Description
 Deep person segmentation and visual transformation of your photos. Currently supported visual transforms:
