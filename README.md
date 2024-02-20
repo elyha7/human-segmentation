@@ -1,7 +1,7 @@
 # Human Segmentation
 
 ## Description
-Deep person segmentation and visual transformation of your photos. Currently supported visual transforms:
+Deep human segmentation and visual transformation of your photos. Currently supported visual transforms:
 * Bokeh effect
 * Black and white background
 * Layer of mask above person
